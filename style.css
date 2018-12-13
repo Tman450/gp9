@@ -31,10 +31,10 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://i.imgur.com/ESsKfvl.jpg');
+  background-image: url('https://i.imgur.com/zMrHbER.jpg');
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 900px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
@@ -96,4 +96,3 @@ footer li img {
   width: 32px;
   height: 32px;
 }
-
